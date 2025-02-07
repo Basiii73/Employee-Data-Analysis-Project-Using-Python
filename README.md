@@ -48,6 +48,10 @@ To run the analysis:
    ```
 3. Open the Jupyter Notebook and run all cells.
 
+## Data set
+ https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link 
+
+
 ## Files in Repository
 - `Employee Data Analysis Project.ipynb` - Jupyter Notebook with analysis and visualizations.
 - ' Data story ' 
